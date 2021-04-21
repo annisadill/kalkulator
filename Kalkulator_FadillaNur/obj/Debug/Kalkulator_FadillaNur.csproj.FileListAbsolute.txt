@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Kalkulator_FadillaNur\Kalkulator_FadillaNur\bin\Debug\Kalkulator_FadillaNur.exe.config
+C:\Users\Asus\source\repos\Kalkulator_FadillaNur\Kalkulator_FadillaNur\bin\Debug\Kalkulator_FadillaNur.exe
+C:\Users\Asus\source\repos\Kalkulator_FadillaNur\Kalkulator_FadillaNur\bin\Debug\Kalkulator_FadillaNur.pdb
+C:\Users\Asus\source\repos\Kalkulator_FadillaNur\Kalkulator_FadillaNur\obj\Debug\Kalkulator_FadillaNur.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Kalkulator_FadillaNur\Kalkulator_FadillaNur\obj\Debug\Kalkulator_FadillaNur.Form1.resources
+C:\Users\Asus\source\repos\Kalkulator_FadillaNur\Kalkulator_FadillaNur\obj\Debug\Kalkulator_FadillaNur.Properties.Resources.resources
+C:\Users\Asus\source\repos\Kalkulator_FadillaNur\Kalkulator_FadillaNur\obj\Debug\Kalkulator_FadillaNur.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Kalkulator_FadillaNur\Kalkulator_FadillaNur\obj\Debug\Kalkulator_FadillaNur.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Kalkulator_FadillaNur\Kalkulator_FadillaNur\obj\Debug\Kalkulator_FadillaNur.exe
+C:\Users\Asus\source\repos\Kalkulator_FadillaNur\Kalkulator_FadillaNur\obj\Debug\Kalkulator_FadillaNur.pdb
